@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Hi, 👋 I'm Wade
+## Hi, 👋 I'm Lemonlove7
 
 - 🌱 目前正在学习 `Python` 、 `go` 和 `php`
 - 📫 联系方式: lemonlove7@qq.com
