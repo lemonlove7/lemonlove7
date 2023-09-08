@@ -26,7 +26,7 @@
 
 ### My GitHub Contributions
 
-![](https://lemonlove7/lemonlove7/github-contribution-grid-snake.svg)
+![](https://github.com/lemonlove7/lemonlove7/blob/main/assets/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
