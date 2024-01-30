@@ -9,6 +9,10 @@
 - 🌱 目前正在学习 `Python` 、 `go` 和 `php`
 - 📫 联系方式: lemonlove7@qq.com
 
+### CVE/CNVD
+- CVE-2022-30113
++ CNVD-2021-34327 CNVD-2022-21832
+
 ### Languaues and Tools
 
 <span > 
